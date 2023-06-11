@@ -1,6 +1,6 @@
 **Only today**
 
-I do Python and Scratch.
+I do Python, Java and Scratch.
 
 <!---
 only2day/only2day is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
